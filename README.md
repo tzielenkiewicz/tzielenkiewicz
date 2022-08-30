@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tzielenkiewicz
-- 👀 I’m interested in backend development but I sometimes also like to create something to look at :)
-- 🌱 I’m currently learning spring boot
-- 💞️ I’m looking to collaborate on java projects
+- 👀 I’m Junior Tester interested in automatization but I sometimes also like to code some backend and create something to look at :)
+- 🌱 I’m currently learning Testing
+- 💞️ I’m looking to collaborate on testing projects
 - 📫 How to reach me: hemickman@pm.me or tomasz.jacek.zielenkiewicz@gmail.com
 
 <!---
